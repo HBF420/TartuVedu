@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "domain": "www.tartuvedu.ee",
+      "destination": "https://tartuvedu.ee/:path*",
+      "permanent": true
+    }
+  ]
+} 
